@@ -11,7 +11,13 @@
     </tr>
   </thead>
   <tbody>
-  <tr>
+    <tr>
+      <td>Capstone Project</td></td>
+      <td><a href="https://github.com/cemispirli/capstone-project" target="_blank">Repo Details</td>
+      <td><a href="https://blog-app-with-firebase.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/cemispirli/capstone-project/master/Capstone-project.gif" alt="Capstone Project"></td>
+    </tr>
+    <tr>
       <td>Turkey Weather App</td>
       <td><a href="https://github.com/cemispirli/weather-turkey-map" target="_blank">Repo Details</td>
       <td><a href="https://weather-turkey.netlify.app/" target="_blank">Live App</td>
