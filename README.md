@@ -11,6 +11,12 @@
     </tr>
   </thead>
   <tbody>
+  <tr>
+      <td>Turkey Weather App</td>
+      <td><a href="https://github.com/cemispirli/weather-turkey-map" target="_blank">Repo Details</td>
+      <td><a href="https://weather-turkey.netlify.app/" target="_blank">Live App</td>
+      <td><img src="https://raw.githubusercontent.com/cemispirli/weather-turkey-map/master/Weather-turkey.gif" alt="Turkey Weather App"></td>
+    </tr>
      <tr>
       <td>Firebase Contact App</td>
       <td><a href="https://github.com/cemispirli/firebase-contact-app" target="_blank">Repo Details</td>
